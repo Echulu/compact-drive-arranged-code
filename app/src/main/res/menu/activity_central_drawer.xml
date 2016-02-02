@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_googledrive" android:icon="@android:drawable/ic_menu_save"
+            android:title="Google Drive" />
+        <item android:id="@+id/nav_onedrive" android:icon="@android:drawable/ic_menu_save"
+            android:title="One Drive" />
+        <item android:id="@+id/nav_tempobox" android:icon="@android:drawable/ic_menu_save"
+            android:title="Tempo Box" />
+        <item android:id="@+id/nav_box" android:icon="@android:drawable/ic_menu_save"
+            android:title="Box" />
+        <item android:id="@+id/nav_dropbox" android:icon="@android:drawable/ic_menu_save"
+            android:title="Drop Box" />
+    </group>
+
+    <item android:title="Info">
+        <menu>
+            <item android:id="@+id/nav_about" android:icon="@android:drawable/ic_dialog_info"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

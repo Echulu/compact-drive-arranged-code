@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compact Drive</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="bh">1</string>
+    <string name="title_activity_get_code__google_drive">GetCode_GoogleDrive</string>
+    <string name="title_activity_about">About</string>
+</resources>
